@@ -10,3 +10,4 @@
 10th pipeline
 11th pipeline
 12th pipeline
+13th scripted pipeline 
