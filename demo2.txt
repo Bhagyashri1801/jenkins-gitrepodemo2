@@ -14,3 +14,4 @@
 14th scripted pipeline 
 15th scripted pipeline 
 16th artifact
+17th environment variable
